@@ -1,0 +1,198 @@
+2022-05-30 01:06:47,718  INFO [main] SauceDemo1Project:44 - Browser is Maximised
+2022-05-30 01:06:48,397  INFO [main] SauceDemo1Project:46 - URL is opened
+2022-05-30 01:06:49,204  INFO [main] SauceDemo1Project:52 - Home page is displyed
+2022-05-30 01:06:50,907  INFO [main] SauceDemo1Project:62 - End of program
+2022-05-30 01:06:52,522  INFO [main] SauceDemo1Project:41 - Browser is opned
+2022-05-30 01:06:52,699  INFO [main] SauceDemo1Project:44 - Browser is Maximised
+2022-05-30 01:06:53,335  INFO [main] SauceDemo1Project:46 - URL is opened
+2022-05-30 01:06:53,921  INFO [main] SauceDemo1Project:52 - Home page is displyed
+2022-05-30 01:06:55,180  INFO [main] SauceDemo1Project:62 - End of program
+2022-05-30 01:06:56,797  INFO [main] SauceDemo1Project:41 - Browser is opned
+2022-05-30 01:06:56,967  INFO [main] SauceDemo1Project:44 - Browser is Maximised
+2022-05-30 01:06:57,689  INFO [main] SauceDemo1Project:46 - URL is opened
+2022-05-30 01:06:58,260  INFO [main] SauceDemo1Project:52 - Home page is displyed
+2022-05-30 01:07:00,113  INFO [main] SauceDemo1Project:62 - End of program
+2022-05-30 01:07:01,682  INFO [main] SauceDemo1Project:41 - Browser is opned
+2022-05-30 01:07:01,911  INFO [main] SauceDemo1Project:44 - Browser is Maximised
+2022-05-30 01:07:02,554  INFO [main] SauceDemo1Project:46 - URL is opened
+2022-05-30 01:07:03,086  INFO [main] SauceDemo1Project:52 - Home page is displyed
+2022-05-30 01:07:11,487  INFO [main] SauceDemo1Project:62 - End of program
+2022-05-30 01:11:01,728  INFO [main] SauceDemo1Project:44 - Browser is Maximised
+2022-05-30 01:11:02,516  INFO [main] SauceDemo1Project:46 - URL is opened
+2022-05-30 01:11:03,451  INFO [main] SauceDemo1Project:52 - Home page is displyed
+2022-05-30 01:11:04,147  INFO [main] SauceDemo1Project:33 - Login page Scrrenshot
+2022-05-30 01:11:04,548  INFO [main] SauceDemo1Project:62 - End of program
+2022-05-30 01:11:05,907  INFO [main] SauceDemo1Project:41 - Browser is opned
+2022-05-30 01:11:06,113  INFO [main] SauceDemo1Project:44 - Browser is Maximised
+2022-05-30 01:11:06,892  INFO [main] SauceDemo1Project:46 - URL is opened
+2022-05-30 01:11:07,451  INFO [main] SauceDemo1Project:52 - Home page is displyed
+2022-05-30 01:11:08,195  INFO [main] SauceDemo1Project:16 - product is added to cart
+2022-05-30 01:11:08,196  INFO [main] SauceDemo1Project:17 - Apply the validation
+2022-05-30 01:11:08,686  INFO [main] SauceDemo1Project:62 - End of program
+2022-05-30 01:11:10,098  INFO [main] SauceDemo1Project:41 - Browser is opned
+2022-05-30 01:11:10,291  INFO [main] SauceDemo1Project:44 - Browser is Maximised
+2022-05-30 01:11:10,935  INFO [main] SauceDemo1Project:46 - URL is opened
+2022-05-30 01:11:11,554  INFO [main] SauceDemo1Project:52 - Home page is displyed
+2022-05-30 01:11:12,447  INFO [main] SauceDemo1Project:21 - Clicked on menu button
+2022-05-30 01:11:12,970  INFO [main] SauceDemo1Project:23 - Home page -Logout page Screenshot
+2022-05-30 01:11:13,095  INFO [main] SauceDemo1Project:25 - Clicked on logout button
+2022-05-30 01:11:13,096  INFO [main] SauceDemo1Project:26 - apply validation
+2022-05-30 01:11:13,595  INFO [main] SauceDemo1Project:62 - End of program
+2022-05-30 01:11:15,452  INFO [main] SauceDemo1Project:41 - Browser is opned
+2022-05-30 01:11:15,619  INFO [main] SauceDemo1Project:44 - Browser is Maximised
+2022-05-30 01:11:16,289  INFO [main] SauceDemo1Project:46 - URL is opened
+2022-05-30 01:11:16,859  INFO [main] SauceDemo1Project:52 - Home page is displyed
+2022-05-30 01:11:19,718  INFO [main] SauceDemo1Project:20 - product is added to cart
+2022-05-30 01:11:19,718  INFO [main] SauceDemo1Project:21 - Apply the validation
+2022-05-30 01:11:20,386  INFO [main] SauceDemo1Project:23 - MultipleProduct add to cart ScreenShoot is taken
+2022-05-30 01:11:20,545  INFO [main] SauceDemo1Project:31 - Clicked on menu button
+2022-05-30 01:11:25,437  INFO [main] SauceDemo1Project:62 - End of program
+2022-05-30 01:13:14,413  INFO [main] SauceDemo1Project:44 - Browser is Maximised
+2022-05-30 01:13:15,672  INFO [main] SauceDemo1Project:46 - URL is opened
+2022-05-30 01:13:16,322  INFO [main] SauceDemo1Project:52 - Home page is displyed
+2022-05-30 01:13:17,272  INFO [main] SauceDemo1Project:33 - Login page Scrrenshot
+2022-05-30 01:13:17,856  INFO [main] SauceDemo1Project:62 - End of program
+2022-05-30 01:13:19,746  INFO [main] SauceDemo1Project:41 - Browser is opned
+2022-05-30 01:13:19,928  INFO [main] SauceDemo1Project:44 - Browser is Maximised
+2022-05-30 01:13:20,625  INFO [main] SauceDemo1Project:46 - URL is opened
+2022-05-30 01:13:21,324  INFO [main] SauceDemo1Project:52 - Home page is displyed
+2022-05-30 01:13:22,284  INFO [main] SauceDemo1Project:16 - product is added to cart
+2022-05-30 01:13:22,285  INFO [main] SauceDemo1Project:17 - Apply the validation
+2022-05-30 01:13:22,843  INFO [main] SauceDemo1Project:62 - End of program
+2022-05-30 01:13:24,243  INFO [main] SauceDemo1Project:41 - Browser is opned
+2022-05-30 01:13:24,492  INFO [main] SauceDemo1Project:44 - Browser is Maximised
+2022-05-30 01:13:25,189  INFO [main] SauceDemo1Project:46 - URL is opened
+2022-05-30 01:13:25,956  INFO [main] SauceDemo1Project:52 - Home page is displyed
+2022-05-30 01:13:26,951  INFO [main] SauceDemo1Project:21 - Clicked on menu button
+2022-05-30 01:13:27,511  INFO [main] SauceDemo1Project:23 - Home page -Logout page Screenshot
+2022-05-30 01:13:27,630  INFO [main] SauceDemo1Project:25 - Clicked on logout button
+2022-05-30 01:13:27,630  INFO [main] SauceDemo1Project:26 - apply validation
+2022-05-30 01:13:28,049  INFO [main] SauceDemo1Project:62 - End of program
+2022-05-30 01:13:29,792  INFO [main] SauceDemo1Project:41 - Browser is opned
+2022-05-30 01:13:29,973  INFO [main] SauceDemo1Project:44 - Browser is Maximised
+2022-05-30 01:13:30,628  INFO [main] SauceDemo1Project:46 - URL is opened
+2022-05-30 01:13:31,459  INFO [main] SauceDemo1Project:52 - Home page is displyed
+2022-05-30 01:13:35,316  INFO [main] SauceDemo1Project:20 - product is added to cart
+2022-05-30 01:13:35,317  INFO [main] SauceDemo1Project:21 - Apply the validation
+2022-05-30 01:13:36,036  INFO [main] SauceDemo1Project:23 - MultipleProduct add to cart ScreenShoot is taken
+2022-05-30 01:13:36,173  INFO [main] SauceDemo1Project:31 - Clicked on menu button
+2022-05-30 01:13:40,698  INFO [main] SauceDemo1Project:62 - End of program
+2022-05-30 16:55:55,691  INFO [main] SauceDemo1Project:44 - Browser is Maximised
+2022-05-30 16:55:56,581  INFO [main] SauceDemo1Project:46 - URL is opened
+2022-05-30 16:55:57,360  INFO [main] SauceDemo1Project:52 - Home page is displyed
+2022-05-30 16:55:58,592  INFO [main] SauceDemo1Project:33 - Login page Scrrenshot
+2022-05-30 16:55:59,279  INFO [main] SauceDemo1Project:62 - End of program
+2022-05-30 16:59:35,581  INFO [main] SauceDemo1Project:44 - Browser is Maximised
+2022-05-30 16:59:36,434  INFO [main] SauceDemo1Project:46 - URL is opened
+2022-05-30 16:59:37,329  INFO [main] SauceDemo1Project:52 - Home page is displyed
+2022-05-30 16:59:38,708  INFO [main] SauceDemo1Project:33 - Login page Scrrenshot
+2022-05-30 16:59:39,497  INFO [main] SauceDemo1Project:62 - End of program
+2022-05-30 16:59:42,169  INFO [main] SauceDemo1Project:41 - Browser is opned
+2022-05-30 16:59:42,567  INFO [main] SauceDemo1Project:44 - Browser is Maximised
+2022-05-30 16:59:43,516  INFO [main] SauceDemo1Project:46 - URL is opened
+2022-05-30 16:59:44,196  INFO [main] SauceDemo1Project:52 - Home page is displyed
+2022-05-30 16:59:44,732  INFO [main] SauceDemo1Project:16 - product is added to cart
+2022-05-30 16:59:44,732  INFO [main] SauceDemo1Project:17 - Apply the validation
+2022-05-30 16:59:45,493  INFO [main] SauceDemo1Project:62 - End of program
+2022-05-30 16:59:47,877  INFO [main] SauceDemo1Project:41 - Browser is opned
+2022-05-30 16:59:48,197  INFO [main] SauceDemo1Project:44 - Browser is Maximised
+2022-05-30 16:59:49,289  INFO [main] SauceDemo1Project:46 - URL is opened
+2022-05-30 16:59:50,017  INFO [main] SauceDemo1Project:52 - Home page is displyed
+2022-05-30 16:59:50,742  INFO [main] SauceDemo1Project:21 - Clicked on menu button
+2022-05-30 16:59:51,279  INFO [main] SauceDemo1Project:23 - Home page -Logout page Screenshot
+2022-05-30 16:59:51,413  INFO [main] SauceDemo1Project:25 - Clicked on logout button
+2022-05-30 16:59:51,414  INFO [main] SauceDemo1Project:26 - apply validation
+2022-05-30 16:59:52,268  INFO [main] SauceDemo1Project:62 - End of program
+2022-05-30 16:59:55,018  INFO [main] SauceDemo1Project:41 - Browser is opned
+2022-05-30 16:59:55,384  INFO [main] SauceDemo1Project:44 - Browser is Maximised
+2022-05-30 16:59:56,410  INFO [main] SauceDemo1Project:46 - URL is opened
+2022-05-30 16:59:57,203  INFO [main] SauceDemo1Project:52 - Home page is displyed
+2022-05-30 17:00:00,656  INFO [main] SauceDemo1Project:20 - product is added to cart
+2022-05-30 17:00:00,657  INFO [main] SauceDemo1Project:21 - Apply the validation
+2022-05-30 17:00:01,441  INFO [main] SauceDemo1Project:23 - MultipleProduct add to cart ScreenShoot is taken
+2022-05-30 17:00:01,687  INFO [main] SauceDemo1Project:31 - Clicked on menu button
+2022-05-30 17:00:07,027  INFO [main] SauceDemo1Project:62 - End of program
+2022-05-30 17:09:27,143  INFO [main] SauceDemo1Project:45 - Browser is Maximised
+2022-05-30 17:09:28,183  INFO [main] SauceDemo1Project:47 - URL is opened
+2022-05-30 17:09:29,339  INFO [main] SauceDemo1Project:53 - Home page is displyed
+2022-05-30 17:09:30,006  INFO [main] SauceDemo1Project:33 - Login page Scrrenshot
+2022-05-30 17:09:32,029  INFO [main] SauceDemo1Project:63 - End of program
+2022-05-30 17:09:38,548  INFO [main] SauceDemo1Project:42 - Browser is opned
+2022-05-30 17:09:38,575  INFO [main] SauceDemo1Project:45 - Browser is Maximised
+2022-05-30 17:09:40,114  INFO [main] SauceDemo1Project:47 - URL is opened
+2022-05-30 17:09:41,214  INFO [main] SauceDemo1Project:53 - Home page is displyed
+2022-05-30 17:09:41,791  INFO [main] SauceDemo1Project:16 - product is added to cart
+2022-05-30 17:09:41,792  INFO [main] SauceDemo1Project:17 - Apply the validation
+2022-05-30 17:09:43,590  INFO [main] SauceDemo1Project:63 - End of program
+2022-05-30 17:09:49,235  INFO [main] SauceDemo1Project:42 - Browser is opned
+2022-05-30 17:09:49,262  INFO [main] SauceDemo1Project:45 - Browser is Maximised
+2022-05-30 17:09:50,586  INFO [main] SauceDemo1Project:47 - URL is opened
+2022-05-30 17:09:51,491  INFO [main] SauceDemo1Project:53 - Home page is displyed
+2022-05-30 17:09:52,057  INFO [main] SauceDemo1Project:21 - Clicked on menu button
+2022-05-30 17:09:52,271  INFO [main] SauceDemo1Project:23 - Home page -Logout page Screenshot
+2022-05-30 17:09:52,602  INFO [main] SauceDemo1Project:25 - Clicked on logout button
+2022-05-30 17:09:52,604  INFO [main] SauceDemo1Project:26 - apply validation
+2022-05-30 17:09:54,756  INFO [main] SauceDemo1Project:63 - End of program
+2022-05-30 17:10:01,969  INFO [main] SauceDemo1Project:42 - Browser is opned
+2022-05-30 17:10:01,987  INFO [main] SauceDemo1Project:45 - Browser is Maximised
+2022-05-30 17:10:03,141  INFO [main] SauceDemo1Project:47 - URL is opened
+2022-05-30 17:10:04,233  INFO [main] SauceDemo1Project:53 - Home page is displyed
+2022-05-30 17:10:08,013  INFO [main] SauceDemo1Project:20 - product is added to cart
+2022-05-30 17:10:08,013  INFO [main] SauceDemo1Project:21 - Apply the validation
+2022-05-30 17:10:08,384  INFO [main] SauceDemo1Project:23 - MultipleProduct add to cart ScreenShoot is taken
+2022-05-30 17:10:08,745  INFO [main] SauceDemo1Project:31 - Clicked on menu button
+2022-05-30 17:10:14,682  INFO [main] SauceDemo1Project:63 - End of program
+2022-05-30 17:11:56,615  INFO [main] SauceDemo1Project:45 - Browser is Maximised
+2022-05-30 17:11:57,519  INFO [main] SauceDemo1Project:47 - URL is opened
+2022-05-30 17:11:58,456  INFO [main] SauceDemo1Project:53 - Home page is displyed
+2022-05-30 17:11:59,878  INFO [main] SauceDemo1Project:33 - Login page Scrrenshot
+2022-05-30 17:12:00,522  INFO [main] SauceDemo1Project:63 - End of program
+2022-05-30 17:12:02,765  INFO [main] SauceDemo1Project:42 - Browser is opned
+2022-05-30 17:12:02,987  INFO [main] SauceDemo1Project:45 - Browser is Maximised
+2022-05-30 17:12:03,855  INFO [main] SauceDemo1Project:47 - URL is opened
+2022-05-30 17:12:04,596  INFO [main] SauceDemo1Project:53 - Home page is displyed
+2022-05-30 17:12:05,407  INFO [main] SauceDemo1Project:16 - product is added to cart
+2022-05-30 17:12:05,408  INFO [main] SauceDemo1Project:17 - Apply the validation
+2022-05-30 17:12:06,062  INFO [main] SauceDemo1Project:63 - End of program
+2022-05-30 17:12:08,119  INFO [main] SauceDemo1Project:42 - Browser is opned
+2022-05-30 17:12:08,293  INFO [main] SauceDemo1Project:45 - Browser is Maximised
+2022-05-30 17:12:09,131  INFO [main] SauceDemo1Project:47 - URL is opened
+2022-05-30 17:12:09,817  INFO [main] SauceDemo1Project:53 - Home page is displyed
+2022-05-30 17:12:10,572  INFO [main] SauceDemo1Project:21 - Clicked on menu button
+2022-05-30 17:12:11,227  INFO [main] SauceDemo1Project:23 - Home page -Logout page Screenshot
+2022-05-30 17:12:11,365  INFO [main] SauceDemo1Project:25 - Clicked on logout button
+2022-05-30 17:12:11,366  INFO [main] SauceDemo1Project:26 - apply validation
+2022-05-30 17:12:12,083  INFO [main] SauceDemo1Project:63 - End of program
+2022-05-30 17:12:14,313  INFO [main] SauceDemo1Project:42 - Browser is opned
+2022-05-30 17:12:14,631  INFO [main] SauceDemo1Project:45 - Browser is Maximised
+2022-05-30 17:12:15,582  INFO [main] SauceDemo1Project:47 - URL is opened
+2022-05-30 17:12:16,282  INFO [main] SauceDemo1Project:53 - Home page is displyed
+2022-05-30 17:12:19,198  INFO [main] SauceDemo1Project:20 - product is added to cart
+2022-05-30 17:12:19,199  INFO [main] SauceDemo1Project:21 - Apply the validation
+2022-05-30 17:12:19,797  INFO [main] SauceDemo1Project:23 - MultipleProduct add to cart ScreenShoot is taken
+2022-05-30 17:12:20,040  INFO [main] SauceDemo1Project:31 - Clicked on menu button
+2022-05-30 17:12:25,015  INFO [main] SauceDemo1Project:63 - End of program
+2022-05-30 17:12:32,127  INFO [main] SauceDemo1Project:42 - Browser is opned
+2022-05-30 17:12:32,204  INFO [main] SauceDemo1Project:45 - Browser is Maximised
+2022-05-30 17:12:34,260  INFO [main] SauceDemo1Project:47 - URL is opened
+2022-05-30 17:12:35,437  INFO [main] SauceDemo1Project:53 - Home page is displyed
+2022-05-30 17:12:36,251  INFO [main] SauceDemo1Project:33 - Login page Scrrenshot
+2022-05-30 17:12:39,130  INFO [main] SauceDemo1Project:63 - End of program
+2022-05-30 17:14:58,475  INFO [main] SauceDemo1Project:42 - Browser is opned
+2022-05-30 17:14:58,839  INFO [main] SauceDemo1Project:45 - Browser is Maximised
+2022-05-30 17:15:00,960  INFO [main] SauceDemo1Project:47 - URL is opened
+2022-05-30 17:15:02,085  INFO [main] SauceDemo1Project:53 - Home page is displyed
+2022-05-30 17:15:02,791  INFO [main] SauceDemo1Project:21 - Clicked on menu button
+2022-05-30 17:15:03,097  INFO [main] SauceDemo1Project:23 - Home page -Logout page Screenshot
+2022-05-30 17:15:04,003  INFO [main] SauceDemo1Project:25 - Clicked on logout button
+2022-05-30 17:15:04,003  INFO [main] SauceDemo1Project:26 - apply validation
+2022-05-30 17:15:06,517  INFO [main] SauceDemo1Project:63 - End of program
+2022-05-30 17:15:15,882  INFO [main] SauceDemo1Project:42 - Browser is opned
+2022-05-30 17:15:16,160  INFO [main] SauceDemo1Project:45 - Browser is Maximised
+2022-05-30 17:15:18,339  INFO [main] SauceDemo1Project:47 - URL is opened
+2022-05-30 17:15:19,545  INFO [main] SauceDemo1Project:53 - Home page is displyed
+2022-05-30 17:15:25,556  INFO [main] SauceDemo1Project:20 - product is added to cart
+2022-05-30 17:15:25,557  INFO [main] SauceDemo1Project:21 - Apply the validation
+2022-05-30 17:15:26,156  INFO [main] SauceDemo1Project:23 - MultipleProduct add to cart ScreenShoot is taken
+2022-05-30 17:15:27,030  INFO [main] SauceDemo1Project:31 - Clicked on menu button
+2022-05-30 17:15:34,667  INFO [main] SauceDemo1Project:63 - End of program
